@@ -6,3 +6,11 @@
 - Book has list of Authors and Chapters, no Subchapters
 - Implement the classes Image, Paragraph, Table
 - implmenet print() method for all classes
+
+# Feedback lab3:
+
+no content
+
+# Feedback lab4:
+
+no content
